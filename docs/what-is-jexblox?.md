@@ -1,6 +1,6 @@
 ---
 layout: default
-title: what-is-jexblox?
+title: what is jexblox?
 nav_order: 2
 ---
 
